@@ -1,3 +1,6 @@
+# 对并行查找多机合并后的日志，按时间排序。日期格式如下：
+# INFO 2021-01-19 22:00:00.207: ... 
+
 import os
 import sys
 import regex as re
